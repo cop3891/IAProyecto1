@@ -1,0 +1,15 @@
+-Tarea 1:
+Descripción: Crear un programa que se le de una direccion url a través de un argumento ARGV.
+Luego descargará todas las imagenes en la dirección dada y las pondrá en una carpeta(recordar crear archivo gitignore para no sincronizar esa carpeta). 
+
+INPUT: url de una dirección de internet que contenga imagenes.
+
+OUTPUT: Carpeta con las imagenes descargadas.
+
+
+-Tarea 2:
+Descripción: Crear un programa que pueda identificar un conjunto de imagenes con escritura y que las pase a texto. EL programa debe ser entrenado previamente con un conjunto de imagenes previas para poder inferir.
+
+INPUT: dirección de carpeta de imagenes en la computadora
+
+OUTPUT: carpeta con documentos de texto correspondientes a las imagenes descargadas.
